@@ -1,16 +1,19 @@
-### Hi there 👋
+### I'm Camilly Beatriz, a developer under construction! 🕹️⚜️
 
-<!--
-**biaswntos/biaswntos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilly-beatriz-80912a200?trk=contact-info)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biaswntos?igshid=OGQ5ZDc2ODk2ZA==)
 
-Here are some ideas to get you started:
+![Camilly GitHub stats](https://github-readme-stats.vercel.app/api?username=biaswntos&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biaswntos&layout=compact)
+## Tecnologias que eu uso no meu dia
+
+<div style="1display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+
+When I met the program, it was love at first sight!
+
+## E-mail para contato:
+
+- camilly.b003@gmail.com
